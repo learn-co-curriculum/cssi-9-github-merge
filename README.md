@@ -1,9 +1,4 @@
----
-tags: github
-level: 4
-languages: git
-resources: atlassian
----
+
 
 #Group Work on GitHub - Merging
 
