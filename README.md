@@ -160,3 +160,5 @@ To https://github.com/google-cssi/student-labs.git
 Hooray! We resolved the merge conflict, and no one's edits got erased.
 
 * [Getting Git Right](https://www.atlassian.com/git/)
+
+<a href='https://learn.co/lessons/cssi-9-github-merge' data-visibility='hidden'>View this lesson on Learn.co</a>
