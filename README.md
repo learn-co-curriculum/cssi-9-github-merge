@@ -161,4 +161,4 @@ Hooray! We resolved the merge conflict, and no one's edits got erased.
 
 * [Getting Git Right](https://www.atlassian.com/git/)
 
-<a href='https://learn.co/lessons/cssi-9-github-merge' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-9-github-merge' title='Group Work on GitHub - Merging'>Group Work on GitHub - Merging</a> on Learn.co and start learning to code for free.</p>
